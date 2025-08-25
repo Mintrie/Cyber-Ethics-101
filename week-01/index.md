@@ -7,6 +7,7 @@
 <!-- 2–3 sentences: one-sentence definition + concrete campus example -->
 
 ## Policy Snippet
+huhuhgoeuheoui
 <!-- paste your AUP/Authorization paragraph -->
 
 ## Evidence Links
